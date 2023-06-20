@@ -108,6 +108,9 @@ function test_input($data) {
             <option value="AB+">AB+</option>
             <option value="AB-">AB-</option>
         </select><span class="error">* <?php echo $BGErr;?></span>
+        <br><br>
+        <input type="submit" name="submit" value="Submit">
+    </form>
 
     <?php
 echo "<h2>Your Input:</h2>";
@@ -119,7 +122,7 @@ echo "Dath of Birth: ".date("$DOB");
 echo "<br>";
 echo "Gender: ".$gender;
 echo "<br>";
-echo "Blood Group : ".$BG;
+echo "Blood Group: ".$BG;
 ?>
 </body>
 
