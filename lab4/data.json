@@ -1,0 +1,31 @@
+[{"name":"","email":"","uname":"","password":"","gender":"","dob":"","imageFile":""},{"name":"","email":"","uname":"","password":"","gender":"","dob":"","imageFile":""},{"name":"","email":"","uname":"","password":"","gender":"","dob":"","imageFile":""},{"name":"","email":"","uname":"","password":"","gender":"","dob":"","imageFile":""},{"name":"","email":"","uname":"","password":"","gender":"","dob":"","imageFile":""},{"name":"","email":"","uname":"","password":"","gender":"","dob":"","imageFile":""},{"name":"","email":"","uname":"","password":"","gender":"","dob":"","imageFile":""},{"name":"","email":"","uname":"","password":"","gender":"","dob":"","imageFile":""},
+
+    {
+        "brand": "Yamaha",
+        "model": "MT",
+        "price_per_day": 500,
+        "amount": 10,
+        "price": 5000
+    },
+    {
+        "brand": "Yamaha",
+        "model": "FZS",
+        "price_per_day": 800,
+        "amount": 5,
+        "price": 4000
+    },
+    {
+        "brand": "Suzuki",
+        "model": "Gixxer",
+        "price_per_day": 600,
+        "amount": 7,
+        "price": 4200
+    },
+    {
+        "brand": "Suzuki",
+        "model": "SF",
+        "price_per_day": 1000,
+        "amount": 3,
+        "price": 3000
+    }
+]    
