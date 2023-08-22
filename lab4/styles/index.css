@@ -1,0 +1,12 @@
+.welcome {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.welcome h2 {
+  text-align: center;
+  padding: 10px;
+  font-size: 8vh;
+}
+
